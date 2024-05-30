@@ -69,7 +69,7 @@ const AboutMenu = () => {
                   components={[
                     <a
                       className='link'
-                      href='https://discord.gg/g3Qnwy4V6A'
+                      href='https://discord.gg'
                       target='_blank'
                     />,
                   ]}
@@ -97,12 +97,20 @@ const AboutMenu = () => {
                 <p>{t('support.paragraph3', { ns: 'about' })}</p>
 
                 <div className='flex flex-col items-center gap-4 my-4'>
+                  
                   <a href='https://ko-fi.com/dplr' target='_blank'>
                     <img
                       src='./kofi.svg'
                       alt='Support us through the Ko-fi platform.'
                     />
                   </a>
+                  <div className='flex gap-x-10 gap-y-4 flex-wrap justify-center'>
+                    <div className='flex flex-col items-center justify-center gap-1'>
+                      
+                    </div>
+                    <div className='flex flex-col items-center justify-center gap-1'>
+                      
+                    </div>
                   </div>
                 </div>
                 <p>{t('support.paragraph4', { ns: 'about' })}</p>
