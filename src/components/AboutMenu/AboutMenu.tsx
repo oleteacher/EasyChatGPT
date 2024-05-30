@@ -103,25 +103,6 @@ const AboutMenu = () => {
                       alt='Support us through the Ko-fi platform.'
                     />
                   </a>
-                  <div className='flex gap-x-10 gap-y-4 flex-wrap justify-center'>
-                    <div className='flex flex-col items-center justify-center gap-1'>
-                      <div>{t('support.alipay', { ns: 'about' })} (Ayaka)</div>
-                      <img
-                        className='rounded-md w-32 h-32'
-                        src='https://ayaka14732.github.io/sponsor/alipay.jpg'
-                        alt='Support us through Alipay'
-                      />
-                    </div>
-                    <div className='flex flex-col items-center justify-center gap-1'>
-                      <div>
-                        {t('support.wechatPay', { ns: 'about' })} (Ayaka)
-                      </div>
-                      <img
-                        className='rounded-md w-32 h-32'
-                        src='https://ayaka14732.github.io/sponsor/wechat.png'
-                        alt='Support us through WeChat Pay'
-                      />
-                    </div>
                   </div>
                 </div>
                 <p>{t('support.paragraph4', { ns: 'about' })}</p>
