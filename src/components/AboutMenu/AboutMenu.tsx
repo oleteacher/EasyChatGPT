@@ -35,7 +35,7 @@ const AboutMenu = () => {
                   ns='about'
                   components={[
                     <a
-                      href='https://github.com/ztjhz/BetterChatGPT'
+                      href='https://discountplr.com'
                       target='_blank'
                       className='link'
                     />,
@@ -87,7 +87,7 @@ const AboutMenu = () => {
                     ns='about'
                     components={[
                       <a
-                        href='https://github.com/ztjhz/BetterChatGPT'
+                        href='https://discountplr.com'
                         target='_blank'
                         className='link'
                       />,
@@ -104,7 +104,7 @@ const AboutMenu = () => {
                       alt='Support us through GitHub Sponsors'
                     />
                   </a>
-                  <a href='https://ko-fi.com/betterchatgpt' target='_blank'>
+                  <a href='https://ko-fi.com/dplr' target='_blank'>
                     <img
                       src='./kofi.svg'
                       alt='Support us through the Ko-fi platform.'
