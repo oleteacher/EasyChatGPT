@@ -29,6 +29,8 @@ Whether you're looking to chat with a virtual assistant, improve your language s
 
 Easy ChatGPT comes with a bundle of amazing features! Here are some of them:
 
+- Bring your own OpenAi API key, save money by cutting out middle man sites
+- OpenAi API key securely stored in YOUR browser, never online
 - Proxy to bypass ChatGPT regional restrictions
 - Prompt library
 - Organize chats into folders (with colours)
