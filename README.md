@@ -1,7 +1,7 @@
 <h1 align="center"><b>Easy ChatGPT</b></h1>
 
 <p align="center">
-    <a href="https://easychatgpt.qikaivision.com/" target="_blank"><img src="public/apple-touch-icon.png" alt="Easy ChatGPT" width="100" /></a>
+    <a href="https://easychatgpt.qikaivision.com/" target="_blank"><img src="public/favicon-516x516.png" alt="Easy ChatGPT" width="400" /></a>
 </p>
 
 <h4 align="center"><b>Free & Powerful - Bring Your Own API Key</b></h4>
