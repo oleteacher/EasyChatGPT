@@ -58,13 +58,13 @@ To get started, simply visit our website at <https://easychatgpt.qikaivision.com
 
 ## Desktop App
 
-Download the desktop app [here](https://github.com/ztjhz/EasyChatGPT/releases)
+Download the desktop app [here](https://github.com/oleteacher/EasyChatGPT/releases)
 
 | OS      | Download  |
 | ------- | --------- |
 | Windows | .exe      |
-| MacOS   | .dmg      |
-| Linux   | .AppImage |
+| MacOS   | SOON      |
+| Linux   | SOON       |
 
 ### Features:
 
