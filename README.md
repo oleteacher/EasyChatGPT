@@ -15,7 +15,7 @@
 
 <p align="center">
     <a href="https://easychatgpt.qikaivision.com/" target="_blank">
-        <img src="assets/preview.png" alt="landing" width=500 />
+        <img src="assets/preview.png" alt="landing" width=800 />
     </a>
 </p>
 
