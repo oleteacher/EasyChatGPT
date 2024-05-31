@@ -48,10 +48,10 @@ Easy ChatGPT comes with a bundle of amazing features! Here are some of them:
 
 # 🛠️ Usage
 
-To get started, simply visit our website at <https://bettergpt.chat/>. There are 3 ways for you to start using Easy ChatGPT.
+To get started, simply visit our website at <https://easychatgpt.qikaivision.com/>. There are 3 ways for you to start using Easy ChatGPT.
 
 1. Enter into the API menu your OpenAI API Key obtained from [OpenAI API Keys](https://platform.openai.com/account/api-keys).
-2. Utilise the api endpoint proxy provided by [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) (if you are in a region with no access to ChatGPT)
+2. Utilize the api endpoint proxy provided by [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) (if you are in a region with no access to ChatGPT)
 3. Host your own API endpoint by following the instructions provided here: <https://github.com/ayaka14732/ChatGPTAPIFree>. Subsequently, enter the API endpoint into the API menu.
 
 ## Desktop App
@@ -77,15 +77,15 @@ If you'd like to run your own instance of Easy ChatGPT, you can easily do so by 
 
 One click deploy with Vercel
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fztjhz%2FEasyChatGPT)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2oleteacher%2FEasyChatGPT)
 
 ## GitHub Pages
 
 ### Steps
 
 1. Create a GitHub account (if you don't have one already)
-1. Star this [repository](https://github.com/ztjhz/EasyChatGPT) ⭐️
-1. Fork this [repository](https://github.com/ztjhz/EasyChatGPT)
+1. Star this [repository](https://github.com/oleteacher/EasyChatGPT) ⭐️
+1. Fork this [repository](https://github.com/oleteacher/EasyChatGPT)
 1. In your forked repository, navigate to the `Settings` tab
    ![image](https://user-images.githubusercontent.com/59118459/223753577-9b6f8266-26e8-471b-8f45-a1a02fbab232.png)
 1. In the left sidebar, click on `Pages` and in the right section, select `GitHub Actions` for `source`.
